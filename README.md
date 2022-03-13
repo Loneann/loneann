@@ -17,7 +17,7 @@
    ## <strong>For communication and connection:
 <br />   
 
-   ## :briefcase: Freelance work? Do contact, <a href="mailto.loneaniletisim@gmail.com">email</a> :)
+   ## :briefcase: Freelance work? Do contact, <a href="mailto:loneaniletisim@gmail.com">email</a> :)
    ## :question: Ask me about anything you like, im happy to help ;)
 
 <br />
