@@ -10,19 +10,19 @@
 
 <br />
 
-    Hi, I'm Lonean, a passionate software lover. Here is my opinion on the software. The key to freedom is software!
+   ## Hi, I'm Lonean, a passionate software lover. Here is my opinion on the software. The key to freedom is software!
 
 <br />
 
-    <strong>For communication and connection:
+   ## <strong>For communication and connection:
 <br />   
 
-    :briefcase: Freelance work? Do contact, <a href="mailto.loneaniletisim@gmail.com">email</a> :)
-    :question: Ask me about anything you like, im happy to help ;)
+   ## :briefcase: Freelance work? Do contact, <a href="mailto.loneaniletisim@gmail.com">email</a> :)
+   ## :question: Ask me about anything you like, im happy to help ;)
 
 <br />
 
-    <strong>Language and Tools:
+   ## <strong>Language and Tools:
 <br />
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25" align="left">
