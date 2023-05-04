@@ -16,7 +16,8 @@
 Hi, I'm Lonean, a passionate software lover. Here is my opinion on the software. The key to freedom is software!
 
 For communication and connection:
-  
+
+- </> my personal website: [here](https://lonean.dev).
 - 💼 any freelance work? do reach, [email](mailto:mail@lonean.dev) :)
 - 💬 ask me about anything, i am happy to help;
 
