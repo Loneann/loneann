@@ -1,6 +1,12 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://lonean.dev">
+  <img align="left" alt="Lonean's Portfolio Web Site" width="22px" src="https://lonean.dev/lonean-code-icon.png" />
+</a>
 <a href="https://www.instagram.com/enverck_/">
   <img align="left" alt="Lonean's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://discord.lonean.dev">
+  <img align="left" alt="Lonean's Discord Profile Site" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://discord.com/users/280244417644986368">
   <img align="left" alt="Lonean's Discord Profile" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
