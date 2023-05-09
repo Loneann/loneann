@@ -12,7 +12,7 @@
   <img align="left" alt="Lonean's Discord Profile" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.buymeacoffee.com/lonean">
-  <img align="left" alt="Buy me a coffe" width="22px" src="https://ucac765dca7d2f7c5ceee0445e50.previews.dropboxusercontent.com/p/thumb/AB5tKBao5BuoJqMFt0yXSAH7jN-QYXHerMhpRgIJYZMv7QlPJWVerQ9CsQd-D-JNRX6XjZWJN7uUGrXCl-lyNl-E96gj0rlKQnPRrqXSJXm8zvmbJ0oxHoh6EVvrtciA6sVdOWgnoDreW2f6f43BsUi7hG6Fjd1q-upSa5Z5J_BlOvKrcj4sjphwbPjIhIQuUvKnTC77kRnts7p3UVENafeIp359AzLWbk-wyTTqRr7cRh8FJn3TFN2FBElYk9y0evxtvMYkdCCQzisRRYF1ybBxg_xmtejid4OdzVBTaRaZ3JZJFh3t8-gFa8O41l5gjedQFSUeKc5RLrGM6a9z1XSHvfpc9mcoiIqFZQVr3lhofPiMKczdBHbg2CfOxr1LR7A/p.png" />
+  <img align="left" alt="Buy me a coffe" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY9Iv9fWFShIajbXxO4jHtRyvK9HPiVpPtK0b1XjR_SRIbhM2JeJmuNeCHQEExnVh890Q&usqp=CAU" />
 </a>
 <br />
 <br />
