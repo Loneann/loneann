@@ -1,6 +1,6 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://lonean.dev">
-  <img align="left" alt="Lonean's Portfolio Web Site" width="22px" src="https://lonean.dev/lonean-code-icon.png" />
+  <img align="left" alt="Lonean's Portfolio Web Site" width="22px" src="https://lonean.dev/static/lonean-code-icon.png" />
 </a>
 <a href="https://www.instagram.com/enverck_/">
   <img align="left" alt="Lonean's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
