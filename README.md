@@ -9,10 +9,10 @@
   <img align="left" alt="Lonean's Discord Profile Site" width="22px" src="https://w7.pngwing.com/pngs/942/98/png-transparent-discord-computer-icons-teamspeak-computer-servers-others-miscellaneous-blue-smiley.png" />
 </a>
 <a href="https://discord.com/users/280244417644986368">
-  <img align="left" alt="Lonean's Discord Profile" width="22px" src="https://w7.pngwing.com/pngs/942/98/png-transparent-discord-computer-icons-teamspeak-computer-servers-others-miscellaneous-blue-smiley.png" />
+  <img align="left" alt="Lonean's Discord Profile" width="22px" src="https://lonean.dev/static/discord-logo.png" />
 </a>
 <a href="https://www.buymeacoffee.com/lonean">
-  <img align="left" alt="Buy me a coffe" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY9Iv9fWFShIajbXxO4jHtRyvK9HPiVpPtK0b1XjR_SRIbhM2JeJmuNeCHQEExnVh890Q&usqp=CAU" />
+  <img align="left" alt="Buy me a coffe" width="22px" src="https://lonean.dev/static/discord-logo.png" />
 </a>
 <br />
 <br />
