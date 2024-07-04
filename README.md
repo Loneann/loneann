@@ -6,7 +6,7 @@
   <img align="left" alt="Lonean's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.lonean.dev">
-  <img align="left" alt="Lonean's Discord Profile Site" width="22px" src="https://lonean.dev/static/discord-logo.png" />
+  <img align="left" alt="Lonean's Discord Profile Site" width="22px" src="https://cdnlonean.dev/static/discord-logo.png" />
 </a>
 <a href="https://discord.com/users/280244417644986368">
   <img align="left" alt="Lonean's Discord Profile" width="22px" src="https://cdn.lonean.dev/static/discord-logo.png" />
