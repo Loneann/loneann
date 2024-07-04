@@ -1,6 +1,6 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://lonean.dev">
-  <img align="left" alt="Lonean's Portfolio Web Site" width="22px" src="https://lonean.dev/static/lonean-code-icon.png" />
+  <img align="left" alt="Lonean's Portfolio Web Site" width="22px" src="https://cdn.lonean.dev/static/lonean-code-icon.png" />
 </a>
 <a href="https://www.instagram.com/enverck_/">
   <img align="left" alt="Lonean's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -9,7 +9,7 @@
   <img align="left" alt="Lonean's Discord Profile Site" width="22px" src="https://lonean.dev/static/discord-logo.png" />
 </a>
 <a href="https://discord.com/users/280244417644986368">
-  <img align="left" alt="Lonean's Discord Profile" width="22px" src="https://lonean.dev/static/discord-logo.png" />
+  <img align="left" alt="Lonean's Discord Profile" width="22px" src="https://cdn.lonean.dev/static/discord-logo.png" />
 </a>
 <a href="https://www.buymeacoffee.com/lonean">
   <img align="left" alt="Buy me a coffe" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY9Iv9fWFShIajbXxO4jHtRyvK9HPiVpPtK0b1XjR_SRIbhM2JeJmuNeCHQEExnVh890Q&usqp=CAU" />
