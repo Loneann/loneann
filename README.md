@@ -11,9 +11,6 @@
 <a href="https://discord.com/users/280244417644986368">
   <img align="left" alt="Lonean's Discord Profile" width="22px" src="https://cdn.lonean.dev/static/discord-logo.png" />
 </a>
-<a href="https://www.buymeacoffee.com/lonean">
-  <img align="left" alt="Buy me a coffe" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY9Iv9fWFShIajbXxO4jHtRyvK9HPiVpPtK0b1XjR_SRIbhM2JeJmuNeCHQEExnVh890Q&usqp=CAU" />
-</a>
 <br />
 <br />
 <br />
