@@ -3,7 +3,7 @@
   <img align="left" alt="Lonean's Portfolio Web Site" width="22px" src="https://cdn.lonean.dev/static/lonean-code-icon.png" />
 </a>
 <a href="https://www.instagram.com/enverck_/">
-  <img align="left" alt="Lonean's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Lonean's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
 </a>
 <a href="https://discord.lonean.dev">
   <img align="left" alt="Lonean's Discord Profile Site" width="22px" src="https://cdn.lonean.dev/static/discord-logo.png" />
@@ -21,7 +21,7 @@ Hi, I'm Lonean, a passionate software lover. Here is my opinion on the software.
 For communication and connection:
 
 - </> my personal website: [here](https://lonean.dev).
-- 💼 any freelance work? do reach, [email](mailto:mail@lonean.dev) :)
+- 💼 any freelance work? do reach, [email](mailto:lonean@lonean.dev) :)
 - 💬 ask me about anything, i am happy to help;
 
 ![](https://komarev.com/ghpvc/?username=loneann)
