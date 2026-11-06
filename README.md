@@ -1,22 +1,13 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://lonean.dev">
-  <img align="left" alt="Lonean's Portfolio Web Site" width="22px" src="https://cdn.lonean.dev/static/lonean-code-icon.png" />
-</a>
-<a href="https://www.instagram.com/enverck_/">
-  <img align="left" alt="Lonean's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
-</a>
-<a href="https://discord.lonean.dev">
-  <img align="left" alt="Lonean's Discord Profile Site" width="22px" src="https://cdn.lonean.dev/static/discord-logo.png" />
-</a>
-<a href="https://discord.com/users/280244417644986368">
-  <img align="left" alt="Lonean's Discord Profile" width="22px" src="https://cdn.lonean.dev/static/discord-logo.png" />
+  <img align="left" alt="Lonean's Portfolio Web Site" width="22px" src="https://lonean.dev/favicon.ico" />
 </a>
 <br />
 <br />
 <br />
 
 
-Hi, I'm Lonean, a passionate software lover. Here is my opinion on the software. The key to freedom is software!
+Hi, I'm Lonean, software lover. It is interesting to vibe coding..
 
 For communication and connection:
 
@@ -26,7 +17,11 @@ For communication and connection:
 
 ![](https://komarev.com/ghpvc/?username=loneann)
 
-**Languages and Tools:**  
+**Current AI Coding Agent:**  
+
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqyU86UJwK5QkwRKPfp5QTKF0tzhiVEjZ4uUtnCmjhOnGr2-WaYlnqkzg5&s=10"></code>
+
+**Languages and Tools (Before AI Vibe Coding):**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
